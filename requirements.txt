@@ -1,0 +1,9 @@
+pytesseract
+pdf2image
+faiss-cpu
+sentence-transformers
+langchain
+openai
+fastapi
+uvicorn
+python-multipart
